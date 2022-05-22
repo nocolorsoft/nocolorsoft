@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppabew&count_bg=%23CDA4CA&title_bg=%23A04849&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
+
+![](img/타자치는고양이.gif)
+
 ### **Who am I🧑🏼‍💻**
 
 ------
