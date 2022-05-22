@@ -1,4 +1,4 @@
-#### **Who am I🧑🏼‍💻**
+### **Who am I🧑🏼‍💻**
 
 ------
 
@@ -30,7 +30,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 
 
-#### **Git Stats🛠** 
+### **Git Stats🛠** 
 
 ------
 
@@ -39,7 +39,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 
 
-#### **Projects in progress🪚**
+### **Projects in progress🪚**
 
 ------
 
