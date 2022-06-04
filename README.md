@@ -71,3 +71,11 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 ##### [2022-inflearn-zerocho-node-study](https://github.com/ppabew/2022-inflearn-zerocho-node-study)
 
 - 인프런 제로초 강의 공부 프로젝트
+
+##### [2022-book-springboot-quick-start](https://github.com/ppabew/2022-book-springboot-quick-start)
+
+- 스프링 퀵 스타트 책 공부 프로젝트
+
+##### IT-WILL [SQL 기초실무] 한 번에 끝내는 SQL 실무
+
+- IT-WIIL 사이트에 있는 SQL 기초 실무 강의 공부 중
