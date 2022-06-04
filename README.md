@@ -58,7 +58,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 ##### **[2022-inflearn-jyoung-css1](https://github.com/ppabew/2022-inflearn-jyoung-css1)**
 
-- 인프런 J Young 썡초보 코스 CSS 공부
+- 인프런 J Young 썡초보 코스 CSS 공부(완료)
 
 ##### **[2022-dreamcoding-javascriptmaster-study](https://github.com/ppabew/2022-dreamcoding-javascriptmaster-study)**
 
@@ -67,3 +67,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 ##### [2022-inflearn-java-algorithm](https://github.com/ppabew/2022-inflearn-java-algorithm)
 
 - 자바(Java) 알고리즘 문제풀이 : 코딩테스트 대비 강의프로젝트
+
+##### [2022-inflearn-zerocho-node-study](https://github.com/ppabew/2022-inflearn-zerocho-node-study)
+
+- 인프런 제로초 강의 공부 프로젝트
