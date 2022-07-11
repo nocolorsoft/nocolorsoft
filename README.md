@@ -4,10 +4,44 @@
   	<img src=img/타자치는고양이.gif />  
   </div>
 </div>
+<br/>
+
+## List📝
+
+------
+- [**Who am I🧑🏼‍💻**](#--who-am-i---------)
+- [**Tech Skills⚙️**](#--tech-skills----)
+- [**Git Stats🛠**](#--git-stats----)
+- [**Projects🪚**](#--projects----)
+  - [[2021-javascript-jquery-study](https://github.com/ppabew/2021-javascript-jquery-study)](#-2021-javascript-jquery-study--https---githubcom-ppabew-2021-javascript-jquery-study-)
+  - [**[2022-inflearn-jyoung-css1](https://github.com/ppabew/2022-inflearn-jyoung-css1)**](#---2022-inflearn-jyoung-css1--https---githubcom-ppabew-2022-inflearn-jyoung-css1---)
+  - [**[2022-dreamcoding-javascriptmaster-study](https://github.com/ppabew/2022-dreamcoding-javascriptmaster-study)**](#---2022-dreamcoding-javascriptmaster-study--https---githubcom-ppabew-2022-dreamcoding-javascriptmaster-study---)
+  - [[2022-inflearn-java-algorithm](https://github.com/ppabew/2022-inflearn-java-algorithm)](#-2022-inflearn-java-algorithm--https---githubcom-ppabew-2022-inflearn-java-algorithm-)
+  - [[2022-inflearn-zerocho-node-study](https://github.com/ppabew/2022-inflearn-zerocho-node-study)](#-2022-inflearn-zerocho-node-study--https---githubcom-ppabew-2022-inflearn-zerocho-node-study-)
+  - [[2022-book-springboot-quick-start](https://github.com/ppabew/2022-book-springboot-quick-start)](#-2022-book-springboot-quick-start--https---githubcom-ppabew-2022-book-springboot-quick-start-)
+  - [IT-WILL [SQL 기초실무] 한 번에 끝내는 SQL 실무](#it-will--sql----------------sql---)
+- [Books📚](#books--)
+    + [윤성우의 열혈 C 프로그래밍(읽음)](#윤성우의-열혈-c-프로그래밍(읽음))
+    + [윤성우의 열혈 C++ 프로그래밍(읽음)](#윤성우의-열혈-C++-프로그래밍(읽음))
+    + [윤성우의 열혈 자바 프로그래밍(읽음)](#윤성우의-열혈-자바-프로그래밍(읽음))
+    + [윤성우의 열혈 자료구조(읽음)](#윤성우의-열혈-자료구조(읽음))
+    + [스프링 퀵 스타트(읽음)](#스프링-퀵-스타트(읽음))
+    + [자바 웹을 다루는 기술(읽음)](#자바-웹을-다루는-기술(읽음))
+    + [Git&Github 입문(읽음)](#Git-Github-입문(읽음))
+    + [CentOS 7 예비학교(읽음)](#CentOS-7-예비학교(읽음))
+- [Lectures💻](#lectures--)
+    + [모든 개발자를 위한 HTTP 웹 기본 지식](#모든-개발자를-위한-HTTP-웹-기본-지식)
+    + [Spring Boot JWT Tutorial](#spring-boot-jwt-tutorial)
+    + [Vue.js 시작하기 - Age of Vue.js](#vuejs-시작하기-age-of-vuejs)
+    + [Vuetify Admine Template만들기 - 기본편](#vuetify-admine-template만들기-기본편)
+    + [Vuetify Admine Template만들기 - 실전편](#vuetify-admine-template만들기-실전편)
+    + [실전! 웹사이트 제작! Step by Step!(쌩 초보 코스)](#-------------step-by-step----------)
+    + [풀스택을 위한 탄탄한 프런트엔드 부트캠프(HTML, CSS, 바닐라 자바스크립트 + ES6)](#-----------------------html--css---------------es6-)
+
 
 <br/>
 
-### **Who am I🧑🏼‍💻**
+## **Who am I🧑🏼‍💻**
 
 ------
 
@@ -19,7 +53,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 <br/>
 
-### **Tech Skills⚙️**
+## **Tech Skills⚙️**
 
 ------
 
@@ -39,7 +73,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 <br/>
 
-### **Git Stats🛠** 
+## **Git Stats🛠** 
 
 ------
 
@@ -48,7 +82,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 
 
-### **Projects🪚**
+## **Projects🪚**
 
 ------
 
@@ -82,7 +116,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 <br/>
 
-### Books📚
+## Books📚
 
 ------
 
@@ -169,3 +203,106 @@ e-book으로도 판매하고 있어 e-book 구매 시 어디서든 볼 수 있�
 
 <img src=img/k452531941_1.jpeg />
 <br/>
+
+## Lectures💻
+
+------
+
+#### 모든 개발자를 위한 HTTP 웹 기본 지식
+
+사이트 : 인프런
+
+강의평 : HTTP 기본 지식에 대해 PPT 자료와 함께 잘 설명해주신다.
+
+HTTP 기본 지식은 웹 개발 시 필수이기 때문에 유익했다.
+
+<img src=img/http.png height="140"/>
+
+<br/>
+
+#### Spring Boot JWT Tutorial
+
+사이트 : 인프런
+
+강의평 : JWT 토큰에 대해 Spirng을 통하여 설명을 해주신다.
+
+JWT 토큰에 대해 지식이 없다면 한번쯤 듣기 좋은 강의
+
+무료 강의이고 JWT 토큰에 대한 설명만 있기 때문에 강의 자체도 짧다.
+
+<img src=img/jwt.png height="140"/>
+
+<br/>
+
+#### Vue.js 시작하기 - Age of Vue.js
+
+사이트 : 인프런
+
+강의평 : Vue.js 초급 강의이다. 
+
+첫 Vue 프로젝트 투입 시 막막해가지고 봤었던 강의이다.
+
+캡틴판교님의 강의로 아마 이분이 국내에서는 Vue를 손에 꼽을 정도로 잘 알지 않을까싶다.
+
+강의 내용도 자료와 함께 알찼고 기본 지식을 습득하는데 많은 도움이 되었다.
+
+<img src=img/vue_js.png height="140"/>
+
+<br/>
+
+#### Vuetify Admine Template만들기 - 기본편
+
+사이트 : 인프런
+
+강의평 : 무료 강의라 별 기대를 안하고 들었는데, 알찼던 강의다.
+
+Vuetify를 이용해 Admin 페이지를 만드는 강의인데, 프로젝트 셋팅부터 Vue와 Vuetifyfy를 이용하여
+
+Vuetify를 어떻게 유용하게 사용하는지 알게해줬던 강의이다.
+
+<img src=img/vuetify1.png height="140"/>
+
+<br/>
+
+#### Vuetify Admine Template만들기 - 실전편
+
+사이트 : 인프런
+
+강의평 : 기본편에 이어 실전편
+
+아무래도 기본보단 쫌 더 난이도 있는 내용이다. 기본편과 더불어 Vuetify관련하여 유익한 내용이 많았다.
+
+강의, 자료, 설명 모두 어디 하나 뺴놓을 곳 없이 유익했던 강의이다.
+
+<img src=img/007.png height="140"/>
+
+<br/>
+
+#### 실전! 웹사이트 제작! Step by Step!(쌩 초보 코스)
+
+사이트 : 인프런
+
+강의평 : 퍼블리싱 관련하여 공부하고 싶어서 수강한 강의
+
+강의 자체는 좋은데, 클론 코딩으로 내용을 빨리 진행해서 설명이 아쉬운 부분이 있긴하다.
+
+실제 사이트를 만들면서 진행하기 때문에 실무에선 어떤식으로 구현하는지 알게되서 좋았다.
+
+<img src=img/puble1.png height="140"/>
+
+<br/>
+
+#### 풀스택을 위한 탄탄한 프런트엔드 부트캠프(HTML, CSS, 바닐라 자바스크립트 + ES6)
+
+사이트 : 인프런
+
+강의평 : 잔재미코딩님의 강의는 매번 느끼지만, 강의 및 자료가 훌륭한 것 같다.
+
+HTML, CSS, 자바스크립트에 대해 강의 및 자료 어디 하나 흠 잡을데 없이 좋았다.
+
+두고두고 보기 좋은 강의였던 것 같다.
+
+<img src=img/fullstack.jpeg height="140"/>
+
+
+
