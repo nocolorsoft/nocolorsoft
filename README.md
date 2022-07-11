@@ -13,11 +13,11 @@
 - [**Tech Skills⚙️**](#--tech-skills----)
 - [**Git Stats🛠**](#--git-stats----)
 - [**Projects🪚**](#--projects🪚)
-  - [[2021-javascript-jquery-study](https://github.com/ppabew/2021-javascript-jquery-study)](#-2021-javascript-jquery-study--https---githubcom-ppabew-2021-javascript-jquery-study-)
-  - [**[2022-inflearn-jyoung-css1](https://github.com/ppabew/2022-inflearn-jyoung-css1)**](#---2022-inflearn-jyoung-css1--https---githubcom-ppabew-2022-inflearn-jyoung-css1---)
-  - [**[2022-dreamcoding-javascriptmaster-study](https://github.com/ppabew/2022-dreamcoding-javascriptmaster-study)**](#---2022-dreamcoding-javascriptmaster-study--https---githubcom-ppabew-2022-dreamcoding-javascriptmaster-study---)
-  - [[2022-inflearn-java-algorithm](https://github.com/ppabew/2022-inflearn-java-algorithm)](#-2022-inflearn-java-algorithm--https---githubcom-ppabew-2022-inflearn-java-algorithm-)
-  - [[2022-inflearn-zerocho-node-study](https://github.com/ppabew/2022-inflearn-zerocho-node-study)](#-2022-inflearn-zerocho-node-study--https---githubcom-ppabew-2022-inflearn-zerocho-node-study-)
+  - [[2021-javascript-jquery-study](https://github.com/ppabew/2021-javascript-jquery-study)]
+  - [**[2022-inflearn-jyoung-css1](https://github.com/ppabew/2022-inflearn-jyoung-css1)**]
+  - [**[2022-dreamcoding-javascriptmaster-study](https://github.com/ppabew/2022-dreamcoding-javascriptmaster-study)**]
+  - [[2022-inflearn-java-algorithm](https://github.com/ppabew/2022-inflearn-java-algorithm)]
+  - [[2022-inflearn-zerocho-node-study](https://github.com/ppabew/2022-inflearn-zerocho-node-study)]
   - [[2022-book-springboot-quick-start](https://github.com/ppabew/2022-book-springboot-quick-start)](#-2022-book-springboot-quick-start--https---githubcom-ppabew-2022-book-springboot-quick-start-)
   - [IT-WILL [SQL 기초실무] 한 번에 끝내는 SQL 실무](#it-will--sql----------------sql---)
 - [Books📚](#books--)
