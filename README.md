@@ -5,7 +5,7 @@
   </div>
 </div>
 
-
+<br/>
 
 ### **Who am I🧑🏼‍💻**
 
@@ -17,7 +17,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 주력 스킬로는   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>,<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">이 있으며, <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>,<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>,<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>,<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>,<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>에 관심이있고 계속 공부중입니다.
 
-
+<br/>
 
 ### **Tech Skills⚙️**
 
@@ -37,7 +37,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
   <img src="https://img.shields.io/badge/Git-FF9955?style=flat-square&logo=Git&logoColor=white"/>
 </div>
 
-
+<br/>
 
 ### **Git Stats🛠** 
 
@@ -80,7 +80,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 - IT-WIIL 사이트에 있는 SQL 기초 실무 강의 공부 중
 
-
+<br/>
 
 ### Books📚
 
@@ -94,7 +94,6 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 <img src=img/06393451.jpeg />
 <br/>
-<br/>
 
 #### 윤성우의 열혈 C++ 프로그래밍(읽음)
 
@@ -103,7 +102,6 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 강의가 포함되어 있어 C언어와 마찬가지로 쉽게 공부할 수 있다.
 
 <img src=img/06271757.jpeg />
-<br/>
 <br/>
 
 #### 윤성우의 열혈 자바 프로그래밍(읽음)
@@ -115,7 +113,6 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 강의도 책도 모두 좋았던 책
 
 <img src=img/12236206.jpeg />
-<br/>
 <br/>
 
 #### 윤성우의 열혈 자료구조(읽음)
@@ -130,7 +127,6 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 <img src=img/06809127.jpeg />
 <br/>
-<br/>
 
 #### 스프링 퀵 스타트(읽음)
 
@@ -141,7 +137,6 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 간단한 게시판 개발 예제가 포함되어있다.
 
 <img src=img/10768455.jpeg />
-<br/>
 <br/>
 
 #### 자바 웹을 다루는 기술(읽음)
@@ -154,7 +149,6 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 <img src=img/14439459.jpeg />
 <br/>
-<br/>
 
 #### Git&Github 입문(읽음)
 
@@ -163,7 +157,6 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 e-book으로도 판매하고 있어 e-book 구매 시 어디서든 볼 수 있다는 장점이있다.
 
 <img src=img/09415223.jpeg />
-<br/>
 <br/>
 
 #### CentOS 7 예비학교(읽음)
@@ -175,5 +168,4 @@ e-book으로도 판매하고 있어 e-book 구매 시 어디서든 볼 수 있�
 다만, 실무 예제가 좀 더 많았으면 좋았을텐데 그러한 부분은 조금 부족했던 것 같다.
 
 <img src=img/k452531941_1.jpeg />
-<br/>
 <br/>
