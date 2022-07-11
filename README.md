@@ -9,10 +9,10 @@
 ## List📝
 
 ------
-- [**Who am I🧑🏼‍💻**](#--who-am-i---------)
+- [**Who am I🧑🏼‍💻**](#--who-am-i🧑🏼‍💻)
 - [**Tech Skills⚙️**](#--tech-skills----)
 - [**Git Stats🛠**](#--git-stats----)
-- [**Projects🪚**](#--projects----)
+- [**Projects🪚**](#--projects🪚)
   - [[2021-javascript-jquery-study](https://github.com/ppabew/2021-javascript-jquery-study)](#-2021-javascript-jquery-study--https---githubcom-ppabew-2021-javascript-jquery-study-)
   - [**[2022-inflearn-jyoung-css1](https://github.com/ppabew/2022-inflearn-jyoung-css1)**](#---2022-inflearn-jyoung-css1--https---githubcom-ppabew-2022-inflearn-jyoung-css1---)
   - [**[2022-dreamcoding-javascriptmaster-study](https://github.com/ppabew/2022-dreamcoding-javascriptmaster-study)**](#---2022-dreamcoding-javascriptmaster-study--https---githubcom-ppabew-2022-dreamcoding-javascriptmaster-study---)
