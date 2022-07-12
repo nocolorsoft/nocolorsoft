@@ -217,7 +217,7 @@ e-book으로도 판매하고 있어 e-book 구매 시 어디서든 볼 수 있�
 
 HTTP 기본 지식은 웹 개발 시 필수이기 때문에 유익했다.
 
-<img src=img/http.png height="140"/>
+<img src=img/http.png height="140" width="240" />
 
 <br/>
 
@@ -231,7 +231,7 @@ JWT 토큰에 대해 지식이 없다면 한번쯤 듣기 좋은 강의
 
 무료 강의이고 JWT 토큰에 대한 설명만 있기 때문에 강의 자체도 짧다.
 
-<img src=img/jwt.png height="140" width="240"/>
+<img src=img/jwt.png height="140" width="240" />
 
 <br/>
 
