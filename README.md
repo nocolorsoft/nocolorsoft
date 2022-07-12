@@ -9,8 +9,8 @@
 ## List📝
 
 ------
-- [**Who am I🧑🏼‍💻**](#--who-am-i🧑🏼‍💻)
-- [**Tech Skills⚙️**](#--tech-skills----)
+- [**Who am I🧑🏼‍💻**](#who-am-i)
+- [**Tech Skills⚙️**](#tech-skills%EF%B8%8F)
 - [**Git Stats🛠**](#--git-stats----)
 - [**Projects🪚**](#--projects🪚)
   - [[2021-javascript-jquery-study](https://github.com/ppabew/2021-javascript-jquery-study)]
