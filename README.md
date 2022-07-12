@@ -37,6 +37,7 @@
     + [Vuetify Admine Template만들기 - 실전편](#vuetify-admine-template만들기-실전편)
     + [실전! 웹사이트 제작! Step by Step!(쌩 초보 코스)](#-------------step-by-step----------)
     + [풀스택을 위한 탄탄한 프런트엔드 부트캠프(HTML, CSS, 바닐라 자바스크립트 + ES6)](#-----------------------html--css---------------es6-)
+    + [쇼핑몰 미니게임 클론코딩 & 코드 리뷰](#쇼핑몰-미니게임-클론코딩-&-코드-리뷰)
 
 
 <br/>
@@ -135,7 +136,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 강의가 포함되어 있어 C언어와 마찬가지로 쉽게 공부할 수 있다.
 
-<img src=img/06271757.jpeg />
+<img src=img/06271757.jpeg height="190" width="139"/>
 <br/>
 
 #### 윤성우의 열혈 자바 프로그래밍(읽음)
@@ -146,7 +147,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 강의도 책도 모두 좋았던 책
 
-<img src=img/12236206.jpeg />
+<img src=img/12236206.jpeg height="190" width="139"/>
 <br/>
 
 #### 윤성우의 열혈 자료구조(읽음)
@@ -159,7 +160,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 강의와 함께 보면 쉽게 이해할 수 있음.
 
-<img src=img/06809127.jpeg />
+<img src=img/06809127.jpeg height="190" width="139"/>
 <br/>
 
 #### 스프링 퀵 스타트(읽음)
@@ -170,7 +171,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 간단한 게시판 개발 예제가 포함되어있다.
 
-<img src=img/10768455.jpeg />
+<img src=img/10768455.jpeg height="190" width="139"/>
 <br/>
 
 #### 자바 웹을 다루는 기술(읽음)
@@ -181,7 +182,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 책 내용도 두껍고 강의와 책 내용 모두 알차게 들어 있어 JSP, Spring 공부애 솔찬히 도움이 되었던 책이다.
 
-<img src=img/14439459.jpeg />
+<img src=img/14439459.jpeg height="190" width="139"/>
 <br/>
 
 #### Git&Github 입문(읽음)
@@ -190,7 +191,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 e-book으로도 판매하고 있어 e-book 구매 시 어디서든 볼 수 있다는 장점이있다.
 
-<img src=img/09415223.jpeg />
+<img src=img/09415223.jpeg height="190" width="139"/>
 <br/>
 
 #### CentOS 7 예비학교(읽음)
@@ -201,7 +202,7 @@ e-book으로도 판매하고 있어 e-book 구매 시 어디서든 볼 수 있�
 
 다만, 실무 예제가 좀 더 많았으면 좋았을텐데 그러한 부분은 조금 부족했던 것 같다.
 
-<img src=img/k452531941_1.jpeg />
+<img src=img/k452531941_1.jpeg height="190" width="139"/>
 <br/>
 
 ## Lectures💻
@@ -230,7 +231,7 @@ JWT 토큰에 대해 지식이 없다면 한번쯤 듣기 좋은 강의
 
 무료 강의이고 JWT 토큰에 대한 설명만 있기 때문에 강의 자체도 짧다.
 
-<img src=img/jwt.png height="140"/>
+<img src=img/jwt.png height="140" width="240"/>
 
 <br/>
 
@@ -246,7 +247,7 @@ JWT 토큰에 대해 지식이 없다면 한번쯤 듣기 좋은 강의
 
 강의 내용도 자료와 함께 알찼고 기본 지식을 습득하는데 많은 도움이 되었다.
 
-<img src=img/vue_js.png height="140"/>
+<img src=img/vue_js.png height="140" width="240"/>
 
 <br/>
 
@@ -260,7 +261,7 @@ Vuetify를 이용해 Admin 페이지를 만드는 강의인데, 프로젝트 셋
 
 Vuetify를 어떻게 유용하게 사용하는지 알게해줬던 강의이다.
 
-<img src=img/vuetify1.png height="140"/>
+<img src=img/vuetify1.png height="140" width="240"/>
 
 <br/>
 
@@ -274,7 +275,7 @@ Vuetify를 어떻게 유용하게 사용하는지 알게해줬던 강의이다.
 
 강의, 자료, 설명 모두 어디 하나 뺴놓을 곳 없이 유익했던 강의이다.
 
-<img src=img/007.png height="140"/>
+<img src=img/007.png height="140" width="240"/>
 
 <br/>
 
@@ -288,7 +289,7 @@ Vuetify를 어떻게 유용하게 사용하는지 알게해줬던 강의이다.
 
 실제 사이트를 만들면서 진행하기 때문에 실무에선 어떤식으로 구현하는지 알게되서 좋았다.
 
-<img src=img/puble1.png height="140"/>
+<img src=img/puble1.png height="140" width="240"/>
 
 <br/>
 
@@ -302,7 +303,20 @@ HTML, CSS, 자바스크립트에 대해 강의 및 자료 어디 하나 흠 잡�
 
 두고두고 보기 좋은 강의였던 것 같다.
 
-<img src=img/fullstack.jpeg height="140"/>
+<img src=img/fullstack.jpeg height="140" width="240"/>
 
 
 
+<br/>
+
+#### 쇼핑몰 미니게임 클론코딩 & 코드 리뷰
+
+사이트 : 드림코딩
+
+강의평 : 드림코딩 엘리 선생님의 쇼핑몰 게임 강의
+
+html, css, js를 가볍게 맛보기 좋고 웹으로 간단한 게임을 만들어봐서 좋았음
+
+나중에 다시 한번 강의없이 개발해보면 좋을 것 같다.
+
+<img src=img/dreamcoding1.jpeg height="140" width="240"/>
