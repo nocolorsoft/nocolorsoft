@@ -72,6 +72,27 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
   <img src="https://img.shields.io/badge/Git-FF9955?style=flat-square&logo=Git&logoColor=white"/>
 </div>
 
+
+<br/>
+
+## How To Work🧳
+
+------
+
+1️⃣ <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>로 당월 개발 SR 작성 → 개발건 요구사항 분석, 설계 진행
+
+2️⃣ <img src="https://img.shields.io/badge/Git-FF9955?style=flat-square&logo=Git&logoColor=white"/>로 월별 개발 브랜치 작성 → 각 월별 개발 브랜치는 개발 완료 후 deveop 브랜치에 merge → 문제 없을 경우 월별 release 브랜치에 merge → 배포 후 2~3주 모니터링 뒤 문제 없을 경우 master 브랜치에 merge 진행 
+
+3️⃣ 개발 시 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>로 단위 테스트가 가능한 것들은 단위 테스트 진행 개발은 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>로 하고 있으며, API 확인은 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>으로 각 컬렉션을 생성한 후 월별 배포 컬렉션을 생성하여 테스트 진행. API 기능 컬렉션을 따로 만들어서 관리
+
+4️⃣ 월별 기능 개발 건 완료 후 deveop 브랜치에 mergeg하고 이후 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>를 이용하여 TB 서버로 CI/CD 진행
+
+5️⃣ 월별 개발건이 완료된 후에는 월별 release 브랜치를 생성 후 각 개발 브랜치를 merge한 후에 각 기능 테스트를하여 정상적으로 개발되었는지, 그리고 회귀테스트를 하여 side effect가 없는지 체크를 진행
+
+6️⃣ 상용 배포 전에는 사전 체크리스트를 작성하여 상용에 DB 반영, repository가 반영되었는지 등을 체크해서 실제 상용 배포 후 문제가 없도록 사전 체크를 진행함
+
+
+
 <br/>
 
 ## **Git Stats🛠** 
@@ -81,7 +102,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 ![ppabew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppabew&show_icons=true&theme=radical)
 
-
+<br/>
 
 ## **Projects🪚**
 
