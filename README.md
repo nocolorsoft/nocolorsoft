@@ -12,6 +12,7 @@
 - [**Who am I🧑🏼‍💻**](#who-am-i)
 - [**Tech Skills⚙️**](#tech-skills%EF%B8%8F)
 - [**Git Stats🛠**](#git-stats)
+- [**How To Work🧳**](#how-to-work)
 - [**Projects🪚**](#projects)
   - [[2021-javascript-jquery-study](https://github.com/ppabew/2021-javascript-jquery-study)]
   - [**[2022-inflearn-jyoung-css1](https://github.com/ppabew/2022-inflearn-jyoung-css1)**]
@@ -38,7 +39,7 @@
     + [실전! 웹사이트 제작! Step by Step!(쌩 초보 코스)](#실전-웹사이트-제작-step-by-step쌩-초보-코스)
     + [풀스택을 위한 탄탄한 프런트엔드 부트캠프(HTML, CSS, 바닐라 자바스크립트 + ES6)](#풀스택을-위한-탄탄한-프런트엔드-부트캠프html-css-바닐라-자바스크립트--es6)
     + [쇼핑몰 미니게임 클론코딩 & 코드 리뷰](#쇼핑몰-미니게임-클론코딩--코드-리뷰)
-
+- 
 
 <br/>
 
@@ -341,3 +342,20 @@ html, css, js를 가볍게 맛보기 좋고 웹으로 간단한 게임을 만들
 나중에 다시 한번 강의없이 개발해보면 좋을 것 같다.
 
 <img src=img/dreamcoding1.jpeg height="140" width="240"/>
+
+
+
+<br/>
+
+## Reading Books📚
+
+------
+
+
+
+<br/>
+
+## Leaning Lectures💻
+
+------
+
