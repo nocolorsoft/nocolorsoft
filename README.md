@@ -102,13 +102,17 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 ------
 
+<center>
 
-![ppabew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppabew&show_icons=true&theme=radical)
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ppabew&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![ppabew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppabew&card_width=500&show_icons=true&theme=radical)
 
 <br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ppabew&card_width=500&langs_count=10&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+</center>
 
 ## **Projects🪚**
 
