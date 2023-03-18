@@ -13,7 +13,7 @@
 - [**Tech Skills⚙️**](#tech-skills%EF%B8%8F)
 - [**Git Stats🛠**](#git-stats)
 - [**How To Work🧳**](#how-to-work)
-- [**Projects🪚**](#projects)
+- [**Working Repositories🪚**](#Working-Repositories)
   - [[2021-javascript-jquery-study](https://github.com/ppabew/2021-javascript-jquery-study)]
   - [**[2022-inflearn-jyoung-css1](https://github.com/ppabew/2022-inflearn-jyoung-css1)**]
   - [**[2022-dreamcoding-javascriptmaster-study](https://github.com/ppabew/2022-dreamcoding-javascriptmaster-study)**]
@@ -114,7 +114,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 </div>
 
-## **Projects🪚**
+## **Working Repositories🪚**
 
 ------
 
