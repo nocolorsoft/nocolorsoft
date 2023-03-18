@@ -104,7 +104,7 @@ Full stack을 목표로하고 있으며, 1일 1커밋을 목표로 계속 노력
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ppabew&theme=radical&border_radius=4.6&locale=ko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ppabew&theme=radical&border_radius=4.6&locale=ko&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 <br/>
 
